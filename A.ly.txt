@@ -1,0 +1,4 @@
+make();
+@indx+0;
+System.GType.Class.SysOut("hello, world");
+
